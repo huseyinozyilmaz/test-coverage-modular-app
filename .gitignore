@@ -25,6 +25,7 @@ private
 out
 lib
 nbproject
+node_modules
 
 # Config Files #
 ################
