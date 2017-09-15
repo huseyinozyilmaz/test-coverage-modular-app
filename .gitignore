@@ -1,0 +1,44 @@
+# Ignore temp and IDE files #
+#############################
+*.iml
+*.ipr
+*.log
+*.lws
+*~
+.checkstyle
+.classpath
+.externalToolBuilders/
+.project
+.settings
+.springBeans
+.gradle
+.scala_dependencies
+.idea
+
+# Generated Folders #
+################
+/build
+build
+target
+bin
+private
+out
+lib
+nbproject
+
+# Config Files #
+################
+catalog.xml
+maven-eclipse.xml
+nbactions.xml
+profiles.xml
+Plan.xml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
